@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Matheus Azevedo 👋
+### Hello! I'm Matheus Azevedo 👋
 
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-a-014121128/)
@@ -8,7 +8,8 @@
 
 ![Matheus A. Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusada&hide_progress=true)
 
-Apaixonado por tecnologia e conhecimento!
+
+Passionate about technology and knowledge!
 
 ## Email: matheusaugusto28azevedo@gmail.com
 
