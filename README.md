@@ -9,7 +9,7 @@
 ![Matheus A. Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusada&hide_progress=true)
 
 
-Passionate about technology and knowledge!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=40F700&width=435&lines=Passionate+about+technology+and+knowledge!)](https://git.io/typing-svg)
 
 ## Email: matheusaugusto28azevedo@gmail.com
 
