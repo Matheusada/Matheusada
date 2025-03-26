@@ -2,7 +2,6 @@
 ![Hello! I'm Matheus Azevedo !](https://capsule-render.vercel.app/api?type=waving&height=290&color=FFA500&text=Hello!%20I'm%20Matheus%20Azevedo&textBg=false&fontSize=25&rotate=0&fontColor=2F4F4F)
  
 
-
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-a-014121128/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.azevedo28/)
 [![WhatsApp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531984869695)
@@ -11,6 +10,20 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=40F700&width=435&lines=Passionate+about+technology+and+knowledge!)](https://git.io/typing-svg)
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRmOHVjOWx3MjBxZzBuNnlvbGh5dHVmcXJwYW11d3Q5NWttOWlpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Matheusada/Matheusada/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## Email: matheusaugusto28azevedo@gmail.com
 
