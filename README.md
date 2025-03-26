@@ -1,5 +1,5 @@
 
-![Hello! I'm Matheus Azevedo !](https://capsule-render.vercel.app/api?type=blur&height=290&color=FFA500&text=Hello!%20I'm%20Matheus%20Azevedo&textBg=false&fontSize=25&rotate=0&fontColor=2F4F4F)
+![Hello! I'm Matheus Azevedo !](https://capsule-render.vercel.app/api?type=waving&height=290&color=FFA500&text=Hello!%20I'm%20Matheus%20Azevedo&textBg=false&fontSize=25&rotate=0&fontColor=2F4F4F)
  
 
 
