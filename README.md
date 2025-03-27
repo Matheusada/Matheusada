@@ -1,5 +1,5 @@
 
-![Hello! I'm Matheus Azevedo !](https://capsule-render.vercel.app/api?type=waving&height=290&color=1E90FF0&text=Hello!%20I'm%20Matheus%20Azevedo&textBg=false&fontSize=25&rotate=0&fontColor=2F4F4F)
+![Hello! I'm Matheus Azevedo !](https://capsule-render.vercel.app/api?type=waving&height=200&color=0A3D62&text=Hello!%20I'm%20Matheus%20Azevedo!&textBg=false&fontColor=FFFFFF&fontSize=30&animation=fadeIn&fontAlign=50&fontAlignY=38)
  
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-a-014121128/)
