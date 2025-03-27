@@ -11,19 +11,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=40F700&width=435&lines=Passionate+about+technology+and+knowledge!)](https://git.io/typing-svg)
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRmOHVjOWx3MjBxZzBuNnlvbGh5dHVmcXJwYW11d3Q5NWttOWlpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif"  />
+<img align="center" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRmOHVjOWx3MjBxZzBuNnlvbGh5dHVmcXJwYW11d3Q5NWttOWlpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif"  />
 
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Matheusada/Matheusada/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## Email: matheusaugusto28azevedo@gmail.com
 
